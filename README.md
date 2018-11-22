@@ -1,1 +1,1 @@
-before every thing just creat the file.
+before every thing just creat the database on xampp.
