@@ -1,4 +1,4 @@
-Database setup::
+
 use test;
 
 CREATE TABLE users (
